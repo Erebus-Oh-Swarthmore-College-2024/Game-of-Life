@@ -1,0 +1,29 @@
+
+Game of Life
+------------
+
+Total score: 10.0/10.5
+
+Details:
+  Initialization and output (2.0/2.5)
+      >>>Does not properly handle if output mode is > 2, or if two many inputs
+
+
+  Board management (2.0/2.0)
+      
+  Simulation (3.5/3.5)
+      
+  Timing and valgrind (1.5/1.5)
+      
+  Program style (1.0/1.0)
+      
+
+**Notes:
+    Lab 9 will be an extension of this lab. There is one detail of your
+implementation that will cause some problems in Lab 9. It's good that
+you only call malloc twice, but can you fix the implementation such
+that you don't have to copy the data from new board back into the old
+board? Let me know if you want some help figuring this out!
+
+
+
